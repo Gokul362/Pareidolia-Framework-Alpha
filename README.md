@@ -1,14 +1,14 @@
 # Pareidolia-Framework-Alpha
 Pareidolia Framework (Alpha Version)
 
-Lead Architect: [Gokul]
+Lead Architect: Gokul
 
-Tech Stack: Python (System Logic) | C# (Implementation Research) | YAML (Data Schema)
+Tech Stack: Python (Logic) | C# (Implementation) | YAML (Data)
 
  Project Overview
 Pareidolia is a data-driven framework designed to bridge the gap between engine architecture and creative content. The goal is to eliminate "clunker" development cycles by allowing real-time, non-destructive logic injection into active game states.
 
-This repository serves as the Alpha Prototype for the core systems that will power the Cost of Legends platform.
+This repository serves as the prototype for the core systems
 
 Key Systems:
 
@@ -19,4 +19,4 @@ YAML-Driven Architecture: All game variables shall be in human readable YAML fil
 Binary Injection Pipeline: Those human readable YAML files shall be compiled and compressed into optimized ".pxb" (Pareidolia Binary) files 
 
 Licensing info:
-This prototype is licensed under the MIT License. The underlying game IP (Cost of Legends) and future C++ implementations remain proprietary.
+This prototype is licensed under the MIT License.
