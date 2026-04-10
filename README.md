@@ -1,12 +1,8 @@
 # Pareidolia-Framework-Alpha
-Pareidolia Framework (Alpha Version)
+Pareidolia Framework (Demo Version)
 
-Lead Architect: Gokul
 
-Tech Stack: Python (Logic) | C# (Implementation) | YAML (Data)
-
- Project Overview
-Pareidolia is a data-driven framework designed to bridge the gap between engine architecture and creative content. The goal is to eliminate "clunker" development cycles by allowing real-time, non-destructive logic injection into active game states.
+Python (Logic) | C# (Implementation) | YAML (Data)
 
 This repository serves as the prototype for the core systems
 
