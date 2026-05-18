@@ -2,7 +2,7 @@
 Pareidolia Framework (Demo Version)
 
 
-Python (Logic) | C# (Implementation) | YAML (Data)
+C++ (Code) | YAML (Data)
 
 This repository serves as the prototype for the core systems
 
@@ -12,7 +12,7 @@ Hot Reloader: Script that monitors any changes within a file, and if a change is
 
 YAML-Driven Architecture: All game variables shall be in human readable YAML files, to ensure that level designers can tweak values without touching any core code
 
-Binary Injection Pipeline: Those human readable YAML files shall be compiled and compressed into optimized ".pxb" (Pareidolia Binary) files 
+Binary Injection Pipeline: Those human readable YAML files shall be compiled into optimized ".pxb" (Pareidolia Binary) files 
 
 Licensing info:
 This prototype is licensed under the MIT License.
